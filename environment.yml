@@ -1,6 +1,5 @@
 name: biggis3
 channels:
-  - defaults
   - conda-forge
 dependencies:
   - python=3.9
@@ -12,7 +11,6 @@ dependencies:
   - descartes
   - findspark
   - fiona
-  - folium
   - geojson
   - geopandas
   - geopy
@@ -26,7 +24,6 @@ dependencies:
   - pillow
   - pint
   - psycopg2
-  - pyproj
   - rasterio
   - requests
   - rtree
